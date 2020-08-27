@@ -1,0 +1,22 @@
+.title_principal{
+  color: #2A3F54;
+}
+.title{
+  font-size: 20px;
+  color: #5A738E;
+}
+.subtitle{
+  color: #1ABB9C;
+  font-size: 18px;
+}
+.content{
+  font-size: 16px;
+}
+.table{
+  width: auto;
+  max-width: 100%;
+}
+.imagen{
+  max-height: 300px;
+  max-width: 100%;
+}
